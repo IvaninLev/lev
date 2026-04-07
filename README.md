@@ -1,28 +1,33 @@
-# lev
-Personal portfolio and projects
-Full-Stack Developer | Laravel & Vue.js
-Technical Stack
+Lev
+Full-Stack Developer | Laravel & React(mastering) / Vue.js
 
-Backend: PHP, Laravel (Eloquent, REST API)
+🧩 Technical Stack
+Backend: PHP, Laravel (Eloquent, REST API, RBAC)
 
-Frontend: Vue 3 (Composition API), Vuetify, Tailwind CSS
+Frontend: React (mastering Hooks, Context), Vue 3 (Composition API), Tailwind CSS, Vuetify
 
 Database: MySQL
-Tools: JetBrains PhpStorm, Git, NPM/Composer.
 
-Featured Projects
+Tools: JetBrains PhpStorm, Git, NPM/Composer
 
-Tour Operator System: Complex search/filter logic and custom booking.
+🚀 Featured Projects
+Tour Operator System: Complex search/filter logic, hotel database management, and custom booking workflow.
 
 CRM & Task Manager: Role-based access control (RBAC) and automated task status tracking.
 
-Professional Background
+Data Management App: Integration with specialized UI component libraries, custom pagination, and API handling.
 
-2 years of self-taught experience under Senior Developer mentorship.
+💼 Professional Background
+Experience: 2+ years of intensive self-taught development under Senior Developer mentorship.
 
-Focus: Clean code (DRY), scalable architecture, and high discipline.
-Languages: English (C1), Czech (B1).
+Focus: Clean code (DRY/SOLID), scalable architecture, and high discipline.
 
-Location: Písek, Czech Republic
+Education: Technical secondary school (Student), Písek, CZ.
 
+🌍 Languages & Location
+Languages: English (C1), Czech (B1), Russian/Ukrainian (Native).
+
+Location: Písek, Czech Republic.
+
+📫 Contact
 Email: ivaninlev903@gmail.com
