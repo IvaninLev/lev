@@ -18,7 +18,7 @@ I am a performance-driven developer with **2+ years of intensive experience** bu
 ### 🚀 Featured Projects
 
 #### 🏨 [HotelsSearch — Tour Booking Platform](https://github.com/your-username/hotels-search)
-*A comprehensive SPA for discovering and booking holiday packages.*
+*A comprehensive SPA for discovering and booking tours.*
 * **Stack:** Laravel 12, Vue 3, Pinia, MoonShine Admin.
 * **Key Achievement:** Architected with a dedicated **Service Layer** to decouple business logic from controllers and implemented complex multi-criteria filtering.
 
